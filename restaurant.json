@@ -2,46 +2,56 @@
   {
     "id": 1,
     "name": "Restaurant A",
+    "image": "images/three.jpeg",
+    "location": { "latitude": -12.345678, "longitude": 23.456789 },
     "foods": [
-      { "name": "Burger", "price": 8.99 },
-      { "name": "Pizza", "price": 10.49 },
-      { "name": "Pasta", "price": 7.99 }
+      { "name": "Burger", "price": 8.99, "foodImage": "images/three.jpeg" },
+      { "name": "Pizza", "price": 10.49, "foodImage": "images/three.jpeg" },
+      { "name": "Pasta", "price": 7.99, "foodImage": "images/three.jpeg" }
     ]
   },
   {
     "id": 2,
     "name": "Restaurant B",
+    "image": "images/three.jpeg",
+    "location": { "latitude": -34.567890, "longitude": 56.789012 },
     "foods": [
-      { "name": "Steak", "price": 15.99 },
-      { "name": "Salad", "price": 6.99 },
-      { "name": "Sushi", "price": 12.99 }
+      { "name": "Steak", "price": 15.99, "foodImage": "images/three.jpeg" },
+      { "name": "Salad", "price": 6.99, "foodImage": "images/three.jpeg" },
+      { "name": "Sushi", "price": 12.99, "foodImage": "images/three.jpeg" }
     ]
   },
   {
     "id": 3,
     "name": "Restaurant C",
+    "image": "images/three.jpeg",
+    "location": { "latitude": -56.789012, "longitude": 78.901234 },
     "foods": [
-      { "name": "Taco", "price": 4.49 },
-      { "name": "Burrito", "price": 7.99 },
-      { "name": "Quesadilla", "price": 6.29 }
+      { "name": "Taco", "price": 4.49, "foodImage": "images/three.jpeg" },
+      { "name": "Burrito", "price": 7.99, "foodImage": "images/three.jpeg" },
+      { "name": "Quesadilla", "price": 6.29, "foodImage": "images/three.jpeg" }
     ]
   },
   {
     "id": 4,
     "name": "Restaurant D",
+    "image": "images/three.jpeg",
+    "location": { "latitude": -78.901234, "longitude": 90.123456 },
     "foods": [
-      { "name": "Chicken Wings", "price": 9.99 },
-      { "name": "Fries", "price": 3.99 },
-      { "name": "Onion Rings", "price": 4.49 }
+      { "name": "Chicken Wings", "price": 9.99, "foodImage": "images/three.jpeg" },
+      { "name": "Fries", "price": 3.99, "foodImage": "images/three.jpeg" },
+      { "name": "Onion Rings", "price": 4.49, "foodImage": "images/three.jpeg" }
     ]
   },
   {
     "id": 5,
     "name": "Restaurant E",
+    "image": "images/three.jpeg",
+    "location": { "latitude": -90.123456, "longitude": 12.345678 },
     "foods": [
-      { "name": "Ice Cream", "price": 3.49 },
-      { "name": "Cake", "price": 5.99 },
-      { "name": "Milkshake", "price": 4.99 }
+      { "name": "Ice Cream", "price": 3.49, "foodImage": "images/three.jpeg" },
+      { "name": "Cake", "price": 5.99, "foodImage": "images/three.jpeg" },
+      { "name": "Milkshake", "price": 4.99, "foodImage": "images/three.jpeg" }
     ]
   }
 ]
