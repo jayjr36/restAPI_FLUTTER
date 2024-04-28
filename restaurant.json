@@ -5,9 +5,9 @@
     "image": "https://th.bing.com/th?q=Masala+Fries&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-WW&cc=TZ&setlang=en&adlt=moderate&t=1&mw=247",
     "location": { "latitude": -12.345678, "longitude": 23.456789 },
     "foods": [
-      { "name": "Burger", "price": 8.99, "foodImage": "https://th.bing.com/th?q=Masala+Fries&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-WW&cc=TZ&setlang=en&adlt=moderate&t=1&mw=247" },
-      { "name": "Pizza", "price": 10.49, "foodImage": "https://th.bing.com/th?q=Masala+Fries&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-WW&cc=TZ&setlang=en&adlt=moderate&t=1&mw=247" },
-      { "name": "Pasta", "price": 7.99, "foodImage": "https://th.bing.com/th?q=Masala+Fries&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-WW&cc=TZ&setlang=en&adlt=moderate&t=1&mw=247" }
+      { "name": "Burger", "price": 5000, "foodImage": "https://th.bing.com/th?q=Masala+Fries&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-WW&cc=TZ&setlang=en&adlt=moderate&t=1&mw=247" },
+      { "name": "Pizza", "price": 10000, "foodImage": "https://th.bing.com/th?q=Masala+Fries&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-WW&cc=TZ&setlang=en&adlt=moderate&t=1&mw=247" },
+      { "name": "Pasta", "price": 7000, "foodImage": "https://th.bing.com/th?q=Masala+Fries&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-WW&cc=TZ&setlang=en&adlt=moderate&t=1&mw=247" }
     ]
   },
   {
@@ -16,9 +16,9 @@
     "image": "https://th.bing.com/th?q=Masala+Fries&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-WW&cc=TZ&setlang=en&adlt=moderate&t=1&mw=247",
     "location": { "latitude": -34.567890, "longitude": 56.789012 },
     "foods": [
-      { "name": "Steak", "price": 15.99, "foodImage": "https://th.bing.com/th?q=Masala+Fries&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-WW&cc=TZ&setlang=en&adlt=moderate&t=1&mw=247" },
-      { "name": "Salad", "price": 6.99, "foodImage": "https://th.bing.com/th?q=Masala+Fries&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-WW&cc=TZ&setlang=en&adlt=moderate&t=1&mw=247" },
-      { "name": "Sushi", "price": 12.99, "foodImage": "https://th.bing.com/th?q=Masala+Fries&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-WW&cc=TZ&setlang=en&adlt=moderate&t=1&mw=247" }
+      { "name": "Steak", "price": 12000, "foodImage": "https://th.bing.com/th?q=Masala+Fries&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-WW&cc=TZ&setlang=en&adlt=moderate&t=1&mw=247" },
+      { "name": "Salad", "price": 6000, "foodImage": "https://th.bing.com/th?q=Masala+Fries&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-WW&cc=TZ&setlang=en&adlt=moderate&t=1&mw=247" },
+      { "name": "Sushi", "price": 14000, "foodImage": "https://th.bing.com/th?q=Masala+Fries&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-WW&cc=TZ&setlang=en&adlt=moderate&t=1&mw=247" }
     ]
   },
   {
@@ -27,9 +27,9 @@
     "image": "https://th.bing.com/th?q=Masala+Fries&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-WW&cc=TZ&setlang=en&adlt=moderate&t=1&mw=247",
     "location": { "latitude": -56.789012, "longitude": 78.901234 },
     "foods": [
-      { "name": "Taco", "price": 4.49, "foodImage": "https://th.bing.com/th?q=Masala+Fries&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-WW&cc=TZ&setlang=en&adlt=moderate&t=1&mw=247" },
-      { "name": "Burrito", "price": 7.99, "foodImage": "https://th.bing.com/th?q=Masala+Fries&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-WW&cc=TZ&setlang=en&adlt=moderate&t=1&mw=247" },
-      { "name": "Quesadilla", "price": 6.29, "foodImage": "https://th.bing.com/th?q=Masala+Fries&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-WW&cc=TZ&setlang=en&adlt=moderate&t=1&mw=247" }
+      { "name": "Taco", "price": 4000, "foodImage": "https://th.bing.com/th?q=Masala+Fries&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-WW&cc=TZ&setlang=en&adlt=moderate&t=1&mw=247" },
+      { "name": "Burrito", "price": 7500, "foodImage": "https://th.bing.com/th?q=Masala+Fries&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-WW&cc=TZ&setlang=en&adlt=moderate&t=1&mw=247" },
+      { "name": "Quesadilla", "price": 6500, "foodImage": "https://th.bing.com/th?q=Masala+Fries&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-WW&cc=TZ&setlang=en&adlt=moderate&t=1&mw=247" }
     ]
   },
   {
@@ -38,9 +38,9 @@
     "image": "https://th.bing.com/th?q=Masala+Fries&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-WW&cc=TZ&setlang=en&adlt=moderate&t=1&mw=247",
     "location": { "latitude": -78.901234, "longitude": 90.123456 },
     "foods": [
-      { "name": "Chicken Wings", "price": 9.99, "foodImage": "https://th.bing.com/th?q=Masala+Fries&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-WW&cc=TZ&setlang=en&adlt=moderate&t=1&mw=247" },
-      { "name": "Fries", "price": 3.99, "foodImage": "https://th.bing.com/th?q=Masala+Fries&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-WW&cc=TZ&setlang=en&adlt=moderate&t=1&mw=247" },
-      { "name": "Onion Rings", "price": 4.49, "foodImage": "https://th.bing.com/th?q=Masala+Fries&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-WW&cc=TZ&setlang=en&adlt=moderate&t=1&mw=247" }
+      { "name": "Chicken Wings", "price": 9000, "foodImage": "https://th.bing.com/th?q=Masala+Fries&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-WW&cc=TZ&setlang=en&adlt=moderate&t=1&mw=247" },
+      { "name": "Fries", "price": 3500, "foodImage": "https://th.bing.com/th?q=Masala+Fries&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-WW&cc=TZ&setlang=en&adlt=moderate&t=1&mw=247" },
+      { "name": "Onion Rings", "price": 4000, "foodImage": "https://th.bing.com/th?q=Masala+Fries&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-WW&cc=TZ&setlang=en&adlt=moderate&t=1&mw=247" }
     ]
   },
   {
@@ -49,9 +49,9 @@
     "image": "https://th.bing.com/th?q=Masala+Fries&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-WW&cc=TZ&setlang=en&adlt=moderate&t=1&mw=247",
     "location": { "latitude": -90.123456, "longitude": 12.345678 },
     "foods": [
-      { "name": "Ice Cream", "price": 3.49, "foodImage": "https://th.bing.com/th?q=Masala+Fries&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-WW&cc=TZ&setlang=en&adlt=moderate&t=1&mw=247" },
-      { "name": "Cake", "price": 5.99, "foodImage": "https://th.bing.com/th?q=Masala+Fries&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-WW&cc=TZ&setlang=en&adlt=moderate&t=1&mw=247" },
-      { "name": "Milkshake", "price": 4.99, "foodImage": "https://th.bing.com/th?q=Masala+Fries&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-WW&cc=TZ&setlang=en&adlt=moderate&t=1&mw=247" }
+      { "name": "Ice Cream", "price": 3000, "foodImage": "https://th.bing.com/th?q=Masala+Fries&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-WW&cc=TZ&setlang=en&adlt=moderate&t=1&mw=247" },
+      { "name": "Cake", "price": 15000, "foodImage": "https://th.bing.com/th?q=Masala+Fries&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-WW&cc=TZ&setlang=en&adlt=moderate&t=1&mw=247" },
+      { "name": "Milkshake", "price": 4000, "foodImage": "https://th.bing.com/th?q=Masala+Fries&w=120&h=120&c=1&rs=1&qlt=90&cb=1&pid=InlineBlock&mkt=en-WW&cc=TZ&setlang=en&adlt=moderate&t=1&mw=247" }
     ]
   }
 ]
